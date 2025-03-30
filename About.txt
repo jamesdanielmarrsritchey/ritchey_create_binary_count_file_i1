@@ -1,0 +1,33 @@
+# About
+
+NAME: Ritchey Create Binary Count File
+IMPLEMENTATION: 1
+VERSION: 1
+LONG IDENTIFIER: Ritchey Create Binary Count File i1 v1
+SHORT IDENTIFIER: RCBCFi1v1
+AUTHOR: James Daniel Marrs Ritchey
+
+## Overview
+
+Ritchey Create Binary Count File is a user-defined PHP function for creating a file that contains counts of binary values in a file.
+
+## Licensing
+
+This project is hereby licensed under the Ritchey Permissive License v19.
+
+## History
+
+Releases:
+- Project started March 30, 2025.
+- Version 1 completed March 30, 2025.
+
+Highlighted Changes:
+- 
+
+## Notes
+
+Technical:
+- Uses Ritchey File Format v1 for file-type.
+
+Other:
+- 

@@ -1,0 +1,13 @@
+File Type: Ritchey File Format v1
+Data Type: Ritchey Binary Count Data v1
+Created: 1743374976
+Last Modified: 1743374976
+File Title: example_input_file
+UUID: 675eba798e54e0dfed17e012e22f8040
+Content:
+" (675eba798e54e0dfed17e012e22f8040)
+Source File: example_input_file.txt
+Binary Count: 00100000: 2, 00101110: 1, 01000001: 1, 01100001: 1, 01100101: 3, 01100110: 1, 01101001: 1, 01101100: 2, 01101101: 1, 01101110: 1, 01110000: 1, 01111000: 1
+" (675eba798e54e0dfed17e012e22f8040)
+Content SHA3-256: 240163f800505bdbb1e9f5b1d894edb0c535a66f78d6d9258d6a641aa2350788
+Content SHA-256: 473b2f547cb639507fe907efa9a414380875aac7989fc031231ba45c0527c474
